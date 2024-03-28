@@ -1,6 +1,6 @@
-# Simple Tailwind Starter
+# Elimag
 
-This is a simple Tailwind starter project using the Tailwind CLI. It is meant to be used as a starting point for your projects. I use this for all my WordPress projects.
+A minimal web magazine, from HTML to WordPress, using Pinegrow.
 
 ## Usage
 
